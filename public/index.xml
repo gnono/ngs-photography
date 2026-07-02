@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NGS Photography</title>
+    <link>http://localhost:1313/ngs-photography/</link>
+    <description>Recent content on NGS Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/ngs-photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/ngs-photography/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ngs-photography/about/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/ngs-photography/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ngs-photography/contact/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Life in Color</title>
+      <link>http://localhost:1313/ngs-photography/gallery/life-in-color/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ngs-photography/gallery/life-in-color/</guid>
+        <media:content url="http://localhost:1313/ngs-photography/gallery/life-in-color/DSCF5948_hu_b22d0c22e4201456.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/ngs-photography/gallery/life-in-color/DSCF5948_hu_b22d0c22e4201456.jpeg&quot; /&gt;
+          &lt;p&gt;Vibrant everyday moments captured in color.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Urban Monochrome</title>
+      <link>http://localhost:1313/ngs-photography/gallery/urban-monochrome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ngs-photography/gallery/urban-monochrome/</guid>
+        <media:content url="http://localhost:1313/ngs-photography/gallery/urban-monochrome/DSCF5733_hu_1a0b824ff424a16f.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/ngs-photography/gallery/urban-monochrome/DSCF5733_hu_1a0b824ff424a16f.jpeg&quot; /&gt;
+          &lt;p&gt;Black and white street photography from urban environments.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

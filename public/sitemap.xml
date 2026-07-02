@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/ngs-photography/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/categories/life-in-color/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/gallery/life-in-color/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/categories/urban-monochrome/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ngs-photography/gallery/urban-monochrome/</loc>
+  </url>
+</urlset>

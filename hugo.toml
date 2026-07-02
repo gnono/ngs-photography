@@ -1,0 +1,36 @@
+baseURL = "https://gnono.github.io/ngs-photography/"
+publishDir = "public"
+languageCode = "en-us"
+title = "NGS Photography"
+theme = "gallery"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Urban Monochrome"
+    url = "/gallery/urban-monochrome/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Life in Color"
+    url = "/gallery/life-in-color/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About Me"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
